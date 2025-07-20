@@ -1,8 +1,7 @@
 # AtliQ-Hardwares
 Excel Sales and Finance Project Report
 As a Data Analyst for **AtliQ Hardware** using Excel, the primary focus would be on leveraging Excel's capabilities to analyze **SALES and FINANCE** data, identify trends, and provide actionable insights to improve business performance. This would involve data cleaning, manipulation, and visualization, ultimately contributing to data-driven decision-making. 
-
-****Here's a breakdown of the key aspects:
+Here's a breakdown of the key aspects:
 
 1. Data Acquisition and Cleaning:
 Data Sources:
